@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<HTML lang="es">
+  <HEAD>
+    <TITTLE>Lugares Turísticos de Europa</TITTLE>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333;
+      }
+      h1 {
+        color: #0066cc;
+      }
+      .lugar {
+        margin-bottom: 20px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        background-color: #fff;
+      }
+      .lugar h2 {
+        color: #0066cc;
+      }
+      .imagen {
+        max-width: 100%;
+        height: auto;
+      }
+    </style>
+  </HEAD>
+  <BODY BACKGROUND="fondo.jpg">
+    <H1>Lugares Turísticos de Europa</H1>
+
+    <!-- Lugar 1: Torre Eiffel -->
+    <div class="lugar">
+      <h2>Torre Eiffel - París, Francia</h2>
+      <p><strong>Descripción:</strong> La Torre Eiffel es uno de los monumentos más emblemáticos del mundo. Fue construida en 1889 para la Exposición Universal de París.</p>
+      <img src="https://www.google.com/imgres?q=Torre%20Eiffel&imgurl=https%3A%2F%2Fparispasoapasotour2183a.zapwp.com%2Fq%3Ai%2Fr%3A0%2Fwp%3A1%2Fw%3A1%2Fu%3Ahttps%3A%2F%2Fparispasoapasotours.com%2Fwp-content%2Fuploads%2F2022%2F12%2Ftour-paris-nocturno.jpg&imgrefurl=https%3A%2F%2Fparispasoapasotours.com%2Fmonumentos%2Ftorre-eiffel%2F&docid=UQQsncLVKQWXSM&tbnid=JTq7EJIeClwHaM&vet=12ahUKEwjE-8n_jd-LAxW_RDABHbSpOxwQM3oECBkQAA..i&w=360&h=360&hcb=2&ved=2ahUKEwjE-8n_jd-LAxW_RDABHbSpOxwQM3oECBkQAA" src="TORRE.JPG" alt="Torre Eiffel">
+      <p><strong>Ubicación:</strong> París, Francia.</p>
+    </div>
+
+    <!-- Lugar 2: Coliseo -->
+    <div class="lugar">
+      <h2>Coliseo - Roma, Italia</h2>
+      <p><strong>Descripción:</strong> El Coliseo es un anfiteatro romano ubicado en el centro de Roma. Fue inaugurado en el año 80 d.C. y es uno de los principales símbolos de la antigua Roma.</p>
+      <img class="imagen" src="coliseo.jpg" alt="Coliseo">
+      <p><strong>Ubicación:</strong> Roma, Italia.</p>
+    </div>
+
+    <!-- Lugar 3: Sagrada Familia -->
+    <div class="lugar">
+      <h2>Sagrada Familia - Barcelona, España</h2>
+      <p><strong>Descripción:</strong> La Sagrada Familia es una basílica de estilo modernista diseñada por el arquitecto Antoni Gaudí, aún en construcción desde 1882.</p>
+      <img class="imagen" src="sagrada_familia.jpg" alt="Sagrada Familia">
+      <p><strong>Ubicación:</strong> Barcelona, España.</p>
+    </div>
+
+    <!-- Lugar 4: Museo del Prado -->
+    <div class="lugar">
+      <h2>Museo del Prado - Madrid, España</h2>
+      <p><strong>Descripción:</strong> El Museo del Prado alberga una de las colecciones de arte más importantes del mundo, con obras de artistas como Velázquez, Goya y El Bosco.</p>
+      <img class="imagen" src="museo_prado.jpg" alt="Museo del Prado">
+      <p><strong>Ubicación:</strong> Madrid, España.</p>
+    </div>
+
+    <!-- Lugar 5: Big Ben -->
+    <div class="lugar">
+      <h2>Big Ben - Londres, Reino Unido</h2>
+      <p><strong>Descripción:</strong> El Big Ben es el nombre de la famosa torre del reloj ubicada en el Palacio de Westminster. Es uno de los íconos más reconocidos de Londres.</p>
+      <img class="imagen" src="big_ben.jpg" alt="Big Ben">
+      <p><strong>Ubicación:</strong> Londres, Reino Unido.</p>
+    </div>
+
+    <!-- Lugar 6: Museo Louvre -->
+    <div class="lugar">
+      <h2>Museo del Louvre - París, Francia</h2>
+      <p><strong>Descripción:</strong> El Museo del Louvre es uno de los museos más grandes y prestigiosos del mundo, famoso por albergar la Mona Lisa y muchas otras obras maestras.</p>
+      <img class="imagen" src="louvre.jpg" alt="Museo del Louvre">
+      <p><strong>Ubicación:</strong> París, Francia.</p>
+    </div>
+
+    <!-- Lugar 7: Palacio de Buckingham -->
+    <div class="lugar">
+      <h2>Palacio de Buckingham - Londres, Reino Unido</h2>
+      <p><strong>Descripción:</strong> El Palacio de Buckingham es la residencia oficial de la Reina de Inglaterra y un símbolo de la monarquía británica.</p>
+      <img class="imagen" src="palacio_buckingham.jpg" alt="Palacio de Buckingham">
+      <p><strong>Ubicación:</strong> Londres, Reino Unido.</p>
+    </div>
+
+    <!-- Lugar 8: Acropolis de Atenas -->
+    <div class="lugar">
+      <h2>Acropolis de Atenas - Atenas, Grecia</h2>
+      <p><strong>Descripción:</strong> La Acrópolis de Atenas es un antiguo complejo de templos y monumentos, considerado uno de los más importantes de la civilización griega.</p>
+      <img class="imagen" src="acropolis.jpg" alt="Acrópolis de Atenas">
+      <p><strong>Ubicación:</strong> Atenas, Grecia.</p>
+    </div>
+
+    <!-- Lugar 9: Plaza de San Pedro -->
+    <div class="lugar">
+      <h2>Plaza de San Pedro - Ciudad del Vaticano</h2>
+      <p><strong>Descripción:</strong> La Plaza de San Pedro es una de las plazas más famosas del mundo, ubicada frente a la Basílica de San Pedro en el Vaticano.</p>
+      <img class="imagen" src="plaza_san_pedro.jpg" alt="Plaza de San Pedro">
+      <p><strong>Ubicación:</strong> Ciudad del Vaticano.</p>
+    </div>
+
+    <!-- Lugar 10: Palacio Real de Madrid -->
+    <div class="lugar">
+      <h2>Palacio Real de Madrid - Madrid, España</h2>
+      <p><strong>Descripción:</strong> El Palacio Real de Madrid es la residencia oficial del rey de España, aunque actualmente solo se utiliza para ceremonias oficiales.</p>
+      <img class="imagen" src="palacio_real.jpg" alt="Palacio Real de Madrid">
+      <p><strong>Ubicación:</strong> Madrid, España.</p>
+    </div>
+
+
+  </div>
+  
+  </BODY>
+</HTML>
